@@ -25,9 +25,6 @@ Zerodha-Clone/ ├── index.html ├── style.css └── assets/ └─
 
 I’m currently pursuing B.Tech in Computer Science with a focus on AI/ML. Passionate about frontend development, I explore tech through hands-on projects and continuous learning.
 
-## 📫 Contact
-
-
 ## 👩‍💻 About Me
 
 I’m currently pursuing B.Tech in Computer Science with a focus on AI/ML. Passionate about frontend development, I explore tech through hands-on projects and continuous learning.
